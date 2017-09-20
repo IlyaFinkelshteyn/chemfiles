@@ -2,7 +2,7 @@ version: "{build}"
 
 image: 'Previous Visual Studio 2015'
 
-os: Visual Studio 2015
+#os: Visual Studio 2015
 
 environment:
   matrix:
