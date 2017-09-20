@@ -1,6 +1,8 @@
 version: "{build}"
 
-image: 'Previous Visual Studio 2015'
+#image: 'Previous Visual Studio 2015'
+install:
+  - ps: .\cmake3.9.2.ps1
 
 os: Visual Studio 2015
 
